@@ -31,7 +31,7 @@
   </body>
   
   <div id="html">
-  <h4>Commands/Format</h4>
+  <h4>Usefull HTML Commands + Format</h4>
   <body>
     <p>These are the things that I would like to have all in one place b/c they're kind hard to remember.</p>
     <br>
