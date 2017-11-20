@@ -9,7 +9,7 @@
 <br>
 <h3>Sections</h3>
   <ol>
-  <li href="#proxies">Proxies</li>
+  <li>Prox<a href="#proxies">Proxies</a></li>
   <li>html coding</li>
   </ol>
   
