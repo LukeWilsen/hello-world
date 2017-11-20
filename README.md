@@ -9,10 +9,21 @@
 <br>
 <h3>Sections</h3>
   <ol>
-  <li>Prox<a href="#proxies">Proxies</a></li>
+  <li><a href="#proxies">Proxies</a></li>
   <li>html coding</li>
   </ol>
-  
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
   <div id="proxies">
   <h3>Proxie servers</h3>
     <body>
