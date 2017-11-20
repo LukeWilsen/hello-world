@@ -10,7 +10,7 @@
 <h3>Sections</h3>
   <ol>
   <li><a href="#proxies">Proxies</a></li>
-  <li><a href="html">html coding</a></li>
+  <li><a href="#html">html coding</a></li>
   </ol>
   <br />
   <br />
@@ -35,5 +35,5 @@
   <body>
     <p>These are the things that I would like to have all in one place b/c they're kind hard to remember.</p>
     <br>
-    <p>First off, embedding links. Format = (<<a href="...."> wormhole text </a>>) but with this, there must be somewhere else in the document with the "...." or else the code won't work b/c there <strong>isn't an end destination</strong>.
+    <p>First off, embedding links. Format = (a href="...."> wormhole text </a) but with this, there must be somewhere else in the document with the "...." or else the code won't work b/c there <strong>isn't an end destination</strong>.
       
