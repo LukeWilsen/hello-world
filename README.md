@@ -37,3 +37,4 @@
     <br>
     <p>First off, embedding links. Format = (a href="...."> wormhole text </a) but with this, there must be somewhere else in the document with the "...." or else the code won't work b/c there <strong>isn't an end destination</strong>.
       
+<p> Ida is gay</p>
